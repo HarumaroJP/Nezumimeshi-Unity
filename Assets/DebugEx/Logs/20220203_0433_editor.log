@@ -1,0 +1,117 @@
+[Log]
+Array<String>: [
+   "a",
+   "b",
+   "c"
+]
+
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+Wanna.DebugEx.DebugEx:Log<string> (System.Collections.Generic.IEnumerable`1<string>) (at Assets/DebugEx/Scripts/Src/Core/DebugEx.cs:38)
+Tester:Start () (at Assets/Tester.cs:36)
+
+[Log]
+Array<Monster>: [
+   {
+       "name": "HIKAKIN A",
+       "hp": 10
+   },
+   {
+       "name": "HIKAKIN B",
+       "hp": 20
+   },
+   {
+       "name": "HIKAKIN C",
+       "hp": 300
+   },
+   {
+       "name": "HIKAKIN D",
+       "hp": 60000
+   }
+]
+
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+Wanna.DebugEx.DebugEx:Log<Tester/Monster> (System.Collections.Generic.IEnumerable`1<Tester/Monster>) (at Assets/DebugEx/Scripts/Src/Core/DebugEx.cs:38)
+Tester:Start () (at Assets/Tester.cs:37)
+
+[Log]
+Array<Monster>: [
+   {
+       "name": "HIKAKIN A",
+       "hp": 10
+   },
+   {
+       "name": "HIKAKIN B",
+       "hp": 20
+   },
+   {
+       "name": "HIKAKIN C",
+       "hp": 300
+   },
+   {
+       "name": "HIKAKIN D",
+       "hp": 60000
+   }
+]
+
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+Wanna.DebugEx.DebugEx:Log<Tester/Monster> (System.Collections.Generic.IEnumerable`1<Tester/Monster>) (at Assets/DebugEx/Scripts/Src/Core/DebugEx.cs:38)
+Tester:Start () (at Assets/Tester.cs:38)
+
+[Log]
+Array<Place, Int32>: [
+   {   
+      "key": "Delta",
+      "value": "3"
+   },
+   {   
+      "key": "Charlie",
+      "value": "44"
+   }
+]
+
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+Wanna.DebugEx.DebugEx:Log<Tester/Place, int> (System.Collections.Generic.IEnumerable`1<System.Collections.Generic.KeyValuePair`2<Tester/Place, int>>) (at Assets/DebugEx/Scripts/Src/Core/DebugEx.cs:45)
+Tester:Start () (at Assets/Tester.cs:41)
+
+[Log]
+#FF3D52FF  Color(1, 0.24, 0.32, 1)
+
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+Wanna.DebugEx.DebugEx:Log (UnityEngine.Color) (at Assets/DebugEx/Scripts/Src/Core/DebugEx.cs:59)
+Tester:Start () (at Assets/Tester.cs:44)
+
+[Log]
+aiueo
+
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+Wanna.DebugEx.DebugEx:Log (string) (at Assets/DebugEx/Scripts/Src/Core/DebugEx.cs:52)
+Tester:Start () (at Assets/Tester.cs:47)
+
+[Log]
+aiueo
+
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+Wanna.DebugEx.DebugEx:Log (string) (at Assets/DebugEx/Scripts/Src/Core/DebugEx.cs:52)
+Tester:Start () (at Assets/Tester.cs:48)
+
+[Log]
+aiueo
+
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+Wanna.DebugEx.DebugEx:Log (string) (at Assets/DebugEx/Scripts/Src/Core/DebugEx.cs:52)
+Tester:Start () (at Assets/Tester.cs:49)
+
+[Log]
+aiueo
+
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+Wanna.DebugEx.DebugEx:Log (string) (at Assets/DebugEx/Scripts/Src/Core/DebugEx.cs:52)
+Tester:Start () (at Assets/Tester.cs:50)
+
+[Log]
+aiueo
+
+UnityEngine.Logger:Log (UnityEngine.LogType,object)
+Wanna.DebugEx.DebugEx:Log (string) (at Assets/DebugEx/Scripts/Src/Core/DebugEx.cs:52)
+Tester:Start () (at Assets/Tester.cs:53)
+
